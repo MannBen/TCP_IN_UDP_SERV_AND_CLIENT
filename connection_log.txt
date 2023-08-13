@@ -1,0 +1,11 @@
+Welcome Socket Created	IP: 127.0.0.1	PORT: 8000
+Welcome Socket Created	IP: 127.0.0.1	PORT: 8000
+Welcome Socket Created	IP: 127.0.0.1	PORT: 8000
+
+Client Connect Socket Created	IP: 127.0.0.1	PORT: 6474
+Server Transfer Socket Created	IP: 127.0.0.1	PORT: 6819
+Client Transfer Socket Created	IP: 127.0.0.1	PORT: 5035
+
+Client Connect Socket Created	IP: 127.0.0.1	PORT: 5942
+Server Transfer Socket Created	IP: 127.0.0.1	PORT: 7821
+Client Transfer Socket Created	IP: 127.0.0.1	PORT: 6546
